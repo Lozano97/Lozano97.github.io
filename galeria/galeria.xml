@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="galeria.xsl"?>
+<galeria>
+
+<imagen numero="BMW Serie 1">
+  <image ruta="../images/bmw1.jpg"/>
+  <nombre>BMW</nombre>
+</imagen>
+
+<imagen numero="BMW Serie 2">
+  <image ruta="../images/bmw2.jpg"/>
+  <nombre>Mercedes</nombre>
+</imagen>
+
+<imagen numero="BMW Serie 3">
+  <image ruta="../images/bmw3.jpg"/>
+  <nombre>SEAT</nombre>
+</imagen>
+
+<imagen numero=" Seat Leon">
+  <image ruta="../images/seat1.jpg"/>
+  <nombre>BMW</nombre>
+</imagen>
+
+<imagen numero="Seat Ibiza">
+  <image ruta="../images/seat2.jpg"/>
+  <nombre>Mercedes</nombre>
+</imagen>
+
+<imagen numero="Seat Arona">
+  <image ruta="../images/seat3.jpg"/>
+  <nombre>SEAT</nombre>
+</imagen>
+
+<imagen numero="Corsa">
+  <image ruta="../images/opel1.jpg"/>
+  <nombre>BMW</nombre>
+</imagen>
+
+<imagen numero="Astra">
+  <image ruta="../images/opel2.jpg"/>
+  <nombre>Mercedes</nombre>
+</imagen>
+
+<imagen numero="Insignia">
+  <image ruta="../images/opel3.jpg"/>
+  <nombre>SEAT</nombre>
+</imagen>
+
+</galeria>
