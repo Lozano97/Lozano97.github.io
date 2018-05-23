@@ -71,16 +71,6 @@
 a.login{
   float: right;
 }
-/*Estilo del video*/
-
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 90%; 
-    min-height: 100%;
-}
-
 /*Menu de imagenes*/
 
 body {
@@ -297,16 +287,7 @@ span.price {
   float: right;
   color: grey;
 }
-footer{
-  background-color:#B4B4B4 ;
-  color: white;
-  font-style: fantasy;
-  border-style: solid;
-  border-width: 1px;
-  width: 100%;
-  display: block;
 
-}
 
 /*Contacto */
 
@@ -440,4 +421,14 @@ span.psw {
 
 #xsl{
   color: white;
+}
+footer{
+  background-color:#B4B4B4 ;
+  color: white;
+  font-style: fantasy;
+  border-style: solid;
+  border-width: 1px;
+  width: 100%;
+  display: block;
+
 }
