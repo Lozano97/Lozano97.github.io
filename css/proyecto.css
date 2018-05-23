@@ -383,7 +383,7 @@ button {
     cursor: pointer;
     width: 90%;
 }
-
+"
 /* Add a hover effect for buttons */
 button:hover {
     opacity: 0.8;
@@ -423,7 +423,7 @@ span.psw {
   color: white;
 }
 footer{
-  background-image: url(../images/header.jpg) ;
+  background-image: url("../images/header.jpg") ;
   color: white;
   font-style: fantasy;
   border-style: solid;
